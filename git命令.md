@@ -6,7 +6,7 @@ git最简单使用流程：
 
 #git remote add <远程仓库别名> <远程仓库url> //添加远程仓库
 
-#git pull //从远程仓库获取最新版本并合并到本地。
+#git pull //从远程仓库获取最新版本并合并到本地。包含所有分支
 
 #git push <remote> <branch> //上传代码
 
